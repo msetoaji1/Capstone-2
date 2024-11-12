@@ -33,5 +33,3 @@ Proyek ini bertujuan untuk melakukan analisis menyeluruh terhadap data kampanye 
 - Presentasi: [Tambahkan Link Presentasi Anda di sini]
 
 ---
-
-README ini merangkum proses analisis dan hasil yang diperoleh dalam proyek ini. Jika ada bagian yang ingin ditambahkan atau diedit, jangan ragu untuk memberi tahu!
