@@ -1,4 +1,4 @@
-LINK Tableau https://public.tableau.com/views/SupermarketXYZ_Marketing/DashboardSupermarketXYZ?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 # **Analisis Kampanye Pemasaran Supermarket XYZ**
 
@@ -29,7 +29,7 @@ Proyek ini bertujuan untuk melakukan analisis menyeluruh terhadap data kampanye 
 3. **Meningkatkan Saluran Penjualan:** Perkuat promosi di toko fisik dan pertimbangkan untuk meningkatkan aktivitas pemasaran di online agar menjangkau lebih banyak pelanggan.
 
 ## **Visualisasi dan Presentasi**
-- Tableau Dashboard: [Tambahkan Link Tableau Anda di sini]
-- Presentasi: [Tambahkan Link Presentasi Anda di sini]
+- Tableau Dashboard: https://public.tableau.com/views/SupermarketXYZ_Marketing/StorySupermarketXYZ?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+- Presentasi: https://docs.google.com/presentation/d/1E-kKpixSSca7uqRK9zb3ZOrtv0nKM4Qd/edit?usp=sharing&ouid=116453531098801360436&rtpof=true&sd=true
 
 ---
